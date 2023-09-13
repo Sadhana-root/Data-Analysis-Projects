@@ -4,6 +4,7 @@ Welcome to my Data Analysis Portfolio! 🚀
 Overview
 In this portfolio, you will find a curated collection of data analysis projects showcasing my skills, expertise, and passion for turning raw data into meaningful insights. As a dedicated data analyst, I bring a unique blend of analytical prowess and storytelling finesse to each project, making data come to life.
 
+
 Why Choose Me?
 
 
@@ -14,6 +15,7 @@ Why Choose Me?
 📈 Impactful Insights: My analyses don't stop at numbers. I connect the dots to provide actionable recommendations that drive real-world results.
 
 🧰 Tool Mastery: Proficient in a wide range of data analysis tools, including Python, R, SQL, Excel, and data visualization libraries like Matplotlib, Seaborn, and Plotly.
+
 
 What's Inside?
 
@@ -26,7 +28,10 @@ Visualizations: Engaging charts and graphs provide a visual journey through the 
 
 Results and Insights: Understand the impact of my analyses and how they drive decisions.
 
+
 Get in Touch
+
+
 I'm passionate about data analysis and always eager for new challenges. Whether it's solving complex business problems, optimizing processes, or uncovering insights, I'm ready to make an impact. Let's connect and discuss how I can contribute to your team's success.
 
 📧 Email: sadhanasavvaser@gmail.com
