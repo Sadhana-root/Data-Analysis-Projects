@@ -5,6 +5,8 @@ Overview
 In this portfolio, you will find a curated collection of data analysis projects showcasing my skills, expertise, and passion for turning raw data into meaningful insights. As a dedicated data analyst, I bring a unique blend of analytical prowess and storytelling finesse to each project, making data come to life.
 
 Why Choose Me?
+
+
 🔍 Inquisitive Explorer: I have a relentless curiosity for data. I dive deep into datasets, uncover hidden patterns, and ask the right questions to drive decision-making.
 
 📊 Data Whisperer: I transform complex data into clear, actionable recommendations. My visualizations are not just aesthetically pleasing; they convey insights at a glance.
