@@ -16,6 +16,8 @@ Why Choose Me?
 🧰 Tool Mastery: Proficient in a wide range of data analysis tools, including Python, R, SQL, Excel, and data visualization libraries like Matplotlib, Seaborn, and Plotly.
 
 What's Inside?
+
+
 Project Descriptions: Each project includes a detailed description, objectives, methodologies, and key findings.
 
 Code Samples: Dive into the code behind the analysis. My well-documented scripts demonstrate my analytical rigor and coding skills.
