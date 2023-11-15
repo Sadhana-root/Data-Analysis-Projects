@@ -11,7 +11,7 @@ Drawing from our findings, we can create a strategy to optimize the newsfeed ser
 **LINK to the dashboard : https://public.tableau.com/views/newsfeed_analysis_dashboard_17000811238640/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link** 
 
 
-
+![Uploading Dashboard 1.png…]()
 
 
 **Interpreting the Results :**
