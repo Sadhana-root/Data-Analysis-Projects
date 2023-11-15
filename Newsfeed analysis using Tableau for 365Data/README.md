@@ -14,11 +14,13 @@ Drawing from our findings, we can create a strategy to optimize the newsfeed ser
 **Interpreting the Results :**
 1. Regarding average likes per post, which post subtype is the least favored?
 
-After examining all subtypes using the appropriate dashboard filter, it's evident that the Level-type and Collection-type posts are the least popular. This observation is supported by the graph showing monthly average likes and the ratio of likes to the total number of posts.
+ After examining all subtypes using the appropriate dashboard filter, it's evident that the Level-type and Collection-type 
+ posts are the least popular. This observation is supported by the graph showing monthly average likes and the ratio of likes 
+ to the total number of posts.
 
-Collection: Out of of 9,376 posts 170 received likes
-Level: Out of 22,313 posts, 422 received likes.
-The notably low average of around 0.02 likes per post for both categories underscores this conclusion.
+ Collection: Out of of 9,376 posts 170 received likes
+ Level: Out of 22,313 posts, 422 received likes.
+ The notably low average of around 0.02 likes per post for both categories underscores this conclusion.
 
 2. We should consult the Subtype Post Distribution graph to determine the most and least frequent post types. This visualization indicates that the Level-type posts are the most prevalent, appearing 22,313 times, whereas the Career Track Certificate posts are the least frequent, with only 144 instances. The count is comparable to the second least common post subtype—the manual Text post, with 150 examples.
 
