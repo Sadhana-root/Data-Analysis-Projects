@@ -10,8 +10,8 @@ Drawing from our findings, we can create a strategy to optimize the newsfeed ser
 
 **LINK to the dashboard : https://public.tableau.com/views/newsfeed_analysis_dashboard_17000811238640/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link** 
 
+![Dashboard 1](Newsfeed%20analysis%20using%20Tableau%20for%20365Data/Dashboard%201.png)
 
-![Alt text](Newsfeed analysis using Tableau for 365Data/Dashboard 1.png)
 
 
 **Interpreting the Results :**
