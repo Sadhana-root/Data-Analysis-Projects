@@ -8,6 +8,7 @@ The aim of this Newsfeed Analysis in Tableau project is to determine which type 
 
 Drawing from our findings, we can create a strategy to optimize the newsfeed service, ensuring it’s engaging and encourages prolonged platform usage—fostering a vibrant online community and, ultimately, influencing course subscriptions and renewals.
 
+**LINK to the dashboard : https://public.tableau.com/views/newsfeed_analysis_dashboard_17000811238640/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link** 
 **Interpreting the Results :**
 1. Regarding average likes per post, which post subtype is the least favored?
 
