@@ -17,7 +17,11 @@ Sprocket Central Pty Ltd has given us a new list of 1000 potential customers wit
 The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analysed, the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing. Hence, improve performance by focusing on high value customers.
 
 ** TASK 1-** Draft an email to your client identifying data quality issues and strategies to mitigate the issues.
+
+
 ** TASK 2-** Develop a PowerPoint presentation that outlines the approach in targeting new customers
+
+
 ** TASK 3-** Create a dashboard for the client that specifies who they should be targeting in their customer list as well as the broader market segment.
 
 
