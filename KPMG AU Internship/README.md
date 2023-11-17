@@ -16,13 +16,11 @@ You decide to start the preliminary data exploration and identify ways to improv
 Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation. 
 The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analysed, the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing. Hence, improve performance by focusing on high value customers.
 
-** TASK 1-** Draft an email to your client identifying data quality issues and strategies to mitigate the issues.
+**TASK 1-** Draft an email to your client identifying data quality issues and strategies to mitigate the issues.
 
+**TASK 2-** Develop a PowerPoint presentation that outlines the approach in targeting new customers
 
-** TASK 2-** Develop a PowerPoint presentation that outlines the approach in targeting new customers
-
-
-** TASK 3-** Create a dashboard for the client that specifies who they should be targeting in their customer list as well as the broader market segment.
+**TASK 3-** Create a dashboard for the client that specifies who they should be targeting in their customer list as well as the broader market segment.
 
 
 **LINK for the dashboard : https://public.tableau.com/shared/C94TQHXSY?:display_count=n&:origin=viz_share_link** 
