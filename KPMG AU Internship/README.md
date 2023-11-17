@@ -1,4 +1,6 @@
-![sprocket_central_logo](https://gi ![kpmg-blue](https://github.com/Sadhana-root/Data-Analysis-Projects/assets/66070236/4415adbf-2b21-47aa-a8ca-dc4381a8fb87)thub.com/Sadhana-root/Data-Analysis-Projects/assets/66070236/cb4ebaa3-309c-4bf2-aa4a-be1f031cc72d)  
+![sprocket_central_logo](https://github.com/Sadhana-root/Data-Analysis-Projects/assets/66070236/cb4ebaa3-309c-4bf2-aa4a-be1f031cc72d)  
+![kpmg-blue](https://github.com/Sadhana-root/Data-Analysis-Projects/assets/66070236/4415adbf-2b21-47aa-a8ca-dc4381a8fb87)
+
 Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
 
 Primarily, Sprocket Central Pty Ltd needs help with its customer and transactions data. The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy. 
